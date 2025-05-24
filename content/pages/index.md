@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Situs Resmi dan Terpercaya 2025
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      **BIANGTOTO hadir sebagai situs games berlisensi resmi 2025 dengan login
+      aman, akses cepat, dan fitur unggulan untuk pengalaman bermain yang
+      stabil, modern, dan terpercaya**
     actions:
       - label: Get started
         altText: ''
