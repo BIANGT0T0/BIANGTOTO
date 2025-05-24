@@ -93,7 +93,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: 'BIANGTOTO : Situs Games Berlisensi Login Aman Dan Resmi Tahun 2025'
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
