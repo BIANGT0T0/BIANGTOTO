@@ -18,7 +18,7 @@ sections:
         url: /biangtotomaxwin.blogspot.com
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
         type: Button
