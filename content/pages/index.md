@@ -118,6 +118,7 @@ seo:
         stabil, modern, dan terpercaya.
     - type: MetaTag
       property: 'og:type'
+      content: website
     - type: MetaTag
 type: PageLayout
 ---
