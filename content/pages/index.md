@@ -94,7 +94,10 @@ sections:
     hoverEffect: move-up
 seo:
   metaTitle: 'BIANGTOTO : Situs Games Berlisensi Login Aman Dan Resmi Tahun 2025'
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    BIANGTOTO hadir sebagai situs games berlisensi resmi 2025 dengan login aman,
+    akses cepat, dan fitur unggulan untuk pengalaman bermain yang stabil,
+    modern, dan terpercaya.
   socialImage: /images/main-hero.jpg
   type: Seo
   metaTags:
