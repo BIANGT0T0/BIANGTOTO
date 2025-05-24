@@ -50,7 +50,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/bca.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/bri.png
