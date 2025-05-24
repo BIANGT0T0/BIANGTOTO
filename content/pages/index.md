@@ -114,5 +114,6 @@ seo:
         aman, akses cepat, dan fitur unggulan untuk pengalaman bermain yang
         stabil, modern, dan terpercaya.
     - type: MetaTag
+    - type: MetaTag
 type: PageLayout
 ---
