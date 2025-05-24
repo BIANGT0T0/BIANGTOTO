@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: BIANGTOTO
-        tagline: This is the tagline
+        tagline: Situs Games Berlisensi Login Aman Dan Resmi Tahun 2025
         subtitle: >-
           BIANGTOTO hadir sebagai situs games berlisensi resmi 2025 dengan login
           aman, akses cepat, dan fitur unggulan untuk pengalaman bermain yang
