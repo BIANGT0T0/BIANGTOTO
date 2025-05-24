@@ -109,6 +109,10 @@ seo:
       content: 'https://biangtotomaxwin.blogspot.com/'
     - type: MetaTag
       property: 'og:description'
+      content: >-
+        BIANGTOTO hadir sebagai situs games berlisensi resmi 2025 dengan login
+        aman, akses cepat, dan fitur unggulan untuk pengalaman bermain yang
+        stabil, modern, dan terpercaya.
     - type: MetaTag
 type: PageLayout
 ---
