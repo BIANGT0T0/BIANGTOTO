@@ -32,7 +32,7 @@ sections:
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
@@ -66,7 +66,7 @@ sections:
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
@@ -81,7 +81,7 @@ sections:
     showDate: true
     showAuthor: true
     variant: three-col-grid
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
