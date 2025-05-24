@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Login
         altText: Login Ke situs
-        url: 'https://biangtotomaxwin.blogspot.com/'
+        url: 'https://ghea.biangtotoo.online/'
         showIcon: false
         icon: ''
         iconPosition: left
