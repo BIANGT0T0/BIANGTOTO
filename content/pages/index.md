@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /biangtotomaxwin.blogspot.com
         showIcon: false
         icon: arrowRight
         iconPosition: right
