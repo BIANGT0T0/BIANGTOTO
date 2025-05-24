@@ -105,6 +105,7 @@ seo:
       property: 'og:site_name'
       content: Biangtoto
     - type: MetaTag
+      property: 'og:url'
     - type: MetaTag
     - type: MetaTag
 type: PageLayout
