@@ -106,6 +106,7 @@ seo:
       content: Biangtoto
     - type: MetaTag
       property: 'og:url'
+      content: 'https://biangtotomaxwin.blogspot.com/'
     - type: MetaTag
     - type: MetaTag
 type: PageLayout
