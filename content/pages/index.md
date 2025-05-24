@@ -98,7 +98,7 @@ seo:
     BIANGTOTO hadir sebagai situs games berlisensi resmi 2025 dengan login aman,
     akses cepat, dan fitur unggulan untuk pengalaman bermain yang stabil,
     modern, dan terpercaya.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/MIN DEPO (2).png
   type: Seo
   metaTags:
     - type: MetaTag
