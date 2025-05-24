@@ -83,7 +83,7 @@
         },
         {
             "label": "LOGIN",
-            "url": "/",
+            "url": "https://ghea.biangtotoo.online/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
