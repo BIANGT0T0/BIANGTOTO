@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "LOGIN",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
