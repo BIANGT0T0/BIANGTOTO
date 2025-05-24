@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
+      - title: BIANGTOTO
         tagline: This is the tagline
         subtitle: >-
           BIANGTOTO hadir sebagai situs games berlisensi resmi 2025 dengan login
