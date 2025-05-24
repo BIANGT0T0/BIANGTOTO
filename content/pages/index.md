@@ -42,7 +42,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Award winning enterprises trust us
+  - subtitle: BANK TERLENGKAP
     images:
       - url: /images/danamon.png
         altText: Empathy logo
