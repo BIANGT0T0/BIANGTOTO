@@ -14,7 +14,7 @@ sections:
       stabil, modern, dan terpercaya**
     actions:
       - label: Login
-        altText: ''
+        altText: Login Ke situs
         url: /biangtotomaxwin.blogspot.com
         showIcon: false
         icon: ''
