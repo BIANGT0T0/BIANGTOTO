@@ -29,9 +29,9 @@ bottomSections:
       - title: About Company
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          BIANGTOTO hadir sebagai situs games berlisensi resmi 2025 dengan login
+          aman, akses cepat, dan fitur unggulan untuk pengalaman bermain yang
+          stabil, modern, dan terpercaya
         image:
           url: /images/logo.png
           altText: Company logo
