@@ -7,7 +7,7 @@ sections:
       text: BIANGTOTO
       color: text-dark
       type: TitleBlock
-    subtitle: Situs Resmi dan Terpercaya 2025
+    subtitle: Situs Games Berlisensi Login Aman Dan Resmi Tahun 2025
     text: >
       **BIANGTOTO hadir sebagai situs games berlisensi resmi 2025 dengan login
       aman, akses cepat, dan fitur unggulan untuk pengalaman bermain yang
