@@ -120,5 +120,6 @@ seo:
       property: 'og:type'
       content: website
     - type: MetaTag
+  addTitleSuffix: true
 type: PageLayout
 ---
