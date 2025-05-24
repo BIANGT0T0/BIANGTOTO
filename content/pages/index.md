@@ -102,6 +102,7 @@ seo:
       property: 'og:title'
       content: 'BIANGTOTO : Situs Games Berlisensi Login Aman Dan Resmi Tahun 2025'
     - type: MetaTag
+      property: 'og:site_name'
     - type: MetaTag
     - type: MetaTag
     - type: MetaTag
