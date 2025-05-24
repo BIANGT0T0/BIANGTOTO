@@ -104,5 +104,6 @@ seo:
     - type: MetaTag
     - type: MetaTag
     - type: MetaTag
+    - type: MetaTag
 type: PageLayout
 ---
