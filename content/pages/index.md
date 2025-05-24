@@ -22,15 +22,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/MIN DEPO (2).png
       altText: Unblock your team boost your time to production preview
