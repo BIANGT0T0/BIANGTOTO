@@ -39,7 +39,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >+
       **BONUS SPECIAL PAKET MALAM 50%**
 
