@@ -16,7 +16,7 @@ sections:
       - label: Login
         altText: ''
         url: /biangtotomaxwin.blogspot.com
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
