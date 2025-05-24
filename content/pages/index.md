@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Login
         altText: Login Ke situs
-        url: biangtotomaxwin.blogspot.com
+        url: 'https://biangtotomaxwin.blogspot.com/'
         showIcon: true
         icon: ''
         iconPosition: left
