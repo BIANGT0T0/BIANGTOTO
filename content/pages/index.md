@@ -13,7 +13,7 @@ sections:
       aman, akses cepat, dan fitur unggulan untuk pengalaman bermain yang
       stabil, modern, dan terpercaya**
     actions:
-      - label: Get started
+      - label: Login
         altText: ''
         url: /biangtotomaxwin.blogspot.com
         showIcon: false
