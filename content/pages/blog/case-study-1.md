@@ -40,11 +40,53 @@ bottomSections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      **BONUS SPECIAL PAKET MALAM 50%**
+
+
+      **SYARAT & KETENTUAN :**
+
+
+      **01. MINIMAL DEPOSIT Rp 25.000 ( BONUS KLAIM SETELAH DEPOSIT ).**
+
+
+      **02. MAKSIMAL BONUS YANG DIBERIKAN Rp 50.000.**
+
+
+      **03. DILARANG KESAMAAN IP.**
+
+
+      **04. PROMO BERLAKU HANYA UNTUK KATEGORI PERMAINAN SLOT.**
+
+
+      **05. EVENT PAKET MALAM INI DI MULAI DARI PKL 00:00 WIB SAMPAI 06:00 WIB.
+      ( JIKA SALDO BONUS YANG SUDAH DI BERIKAN TIDAK ADA PERMAINAN MAKA SALDO
+      AKAN DI TARIK KEMBALI ).**
+
+
+      **06. JIKA KEDAPATAN MEMBER MELAKUKAN BETTINGAN PADA GAME APAPUN SELAIN
+      SLOT MAKA AKUN AKAN DIBEKUKAN DAN SALDO KEMENANGAN DI ANGGAP HANGUS.**
+
+
+      **07. BONUS HANYA BISA DIKLAIM 1 KALI SEHARI.**
+
+
+      **08. SYARAT UNTUK WD ( DEPOSIT + BONUS x10 ) BARU MEMBER DAPAT MELAKUKAN
+      PENARIKAN ( WD ) Contoh : 50.000 + 25.000 = 75.000 x 10 = 750.000 ( TO
+      YANG HARUS DICAPAI ).**
+
+
+      **09. BONUS TIDAK DAPAT DI GABUNGKAN DENGAN BONUS LAINYA PADA HARI YANG
+      SAMA JIKA SUDAH CLAIM BONUS TERSEBUT.**
+
+
+      **10. JIKA TERDAPAT KECURANGAN SEPERTI : KESAMAAN DATA, PENIPUAN DEPOSIT
+      MAKA AKAN KAMI ANGGAP GUGUR DALAM EVENT YANG INGIN DI KLAIM.**
+
+
+      MORE INFO
+
+
     actions: []
     media:
       type: VideoBlock
