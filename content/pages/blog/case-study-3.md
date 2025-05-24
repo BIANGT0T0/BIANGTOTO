@@ -9,15 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/3.jpg
-  altText: >-
-    • Wajid Klaim ke CS Melalui Telegram BIANGTOTO dan sertakan Screenshot
-    Aplikasi Yang Sudah Terdownload• 1 User ID Hanya Bisa Mengklaim Sebanyak 1x
-    (Bonus Diberikan 10K)• Harus Pernah Melakukan Deposit 100.000 Dan Betting
-    50.000 Pada Situs BIANGTOTO• Klaim Melalui Whatsapp atau Livechat Biangtoto•
-    Tidak di perbolehkan adanya multiple user atau account lebh dari 1 dalam
-    mengklaim Bonus Download Aplikasi BIANGTOTO• Tidak di perbolehkan adanya ip
-    address yang sama atau 3rd party seperti VPN/SSH/PROXY/TUNNELING dengan
-    tujuan untuk mendapatkan Promo Bonus.
+  altText: BONUS DOWNLOAD APLIKASI
   styles:
     self:
       borderRadius: x-large
